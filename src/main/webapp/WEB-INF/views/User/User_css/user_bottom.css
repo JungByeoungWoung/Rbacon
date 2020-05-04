@@ -1,0 +1,94 @@
+@charset "UTF-8";
+.bottom{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 120px;
+  background: #ffffff;
+  z-index: 30;
+}
+#nav-mobile{
+}
+.bottom_li{
+	padding-left: 0px !important;
+	
+}
+
+li#money_gray_btn.bottom_li{
+	width: 0px !important;
+}
+li#message_gray_btn.bottom_li{
+	width: 336px !important;
+}
+#home_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  width: 70px;
+ /*  position: absolute; */
+}
+#money_gray_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+  float: left;
+  position: absolute;
+}
+#camera_gray_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  right: 0px;
+  left: 0px;
+  float: left;
+  position: absolute;
+}	
+#message_gray_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  right: 0px;
+  float: left;
+  position: absolute;
+}
+#settings_gray_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+	right: 0px;
+  position: absolute;
+}
+.btn_bottom{
+	width: 63px;
+	height: 60px;
+	padding: unset;
+	border: none;
+	background-color: white;
+}
+
+#btn_home{
+	margin-left: 90px;
+}
+#btn_money{
+	margin-left: 272px;
+}
+#btn_camera{
+	margin-left: 47%;
+    position: fixed;
+}
+#btn_message{
+	margin-right: 272px;
+	width: 64px;
+}
+#btn_settings{
+	float: right;
+	margin-right: 90px;
+}
+#workch{
+	float:right;
+	margin-top:3%;
+	padding-right: 3%
+}
+
+#back{
+	float:left;
+	margin-top:3%;
+	padding-left: 3%
+}

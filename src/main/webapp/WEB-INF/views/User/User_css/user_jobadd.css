@@ -1,0 +1,203 @@
+@charset "UTF-8";
+
+html, body {
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: #f7f7f7;
+}
+
+.one {
+	height: 400px;
+	background-color: #ffffff;
+}
+
+nav.top-nav {
+	height: 100px;
+	background-color: #0090ff;
+}
+
+a.brand-logo {
+	padding-top: 16px !important;
+	font-size: 35px !important;
+}
+
+#left_btn {
+	margin-left: -20px;
+	font-size: 100px !important;
+	line-height: 1 !important;
+}
+
+select.browser-default {
+	border: 2px solid #afafaf;
+	padding: 20px !important;
+}
+
+#city {
+	width: 100%;
+	padding-left: 30px;
+	padding-top: 38px;
+	font-size: 30px;
+}
+
+#all-city {
+	float: left;
+	width: 40%;
+	position: absolute;
+}
+
+#all-goo {
+	float: left;
+	margin-left: 42%;
+	width: 40%;
+	position: absolute;
+}
+
+.maker {
+	height: 25%;
+	width: 95%;
+	margin-left: 30px;
+	margin-top: 120px;
+	border: 2px solid #afafaf;
+	background: #ffffff;
+	position: relative;
+}
+
+#maker-add {
+	margin-top: 5px;
+	font-size: 30px;
+	width: 85%;
+	padding: 20px;
+	border: 0px;
+	outline: none;
+	float: left;
+	position: absolute;
+}
+
+#maker-search {
+	margin-left: 85%;
+	width: 15%;
+	height: 100%;
+	background: #ffffff;
+	float: right;
+	color: #000000;
+	font-size: 30px;
+	position: absolute;
+}
+
+#job-result {
+	width: 96%;
+	margin-left: 20px;
+	margin-top: 50px;
+	border: 2px solid #afafaf;
+	background: #ffffff;
+	position: absolute;
+	color: #000000;
+}
+
+#job-address {
+	padding-left: 2%;
+}
+
+a.modal-trigger {
+	color: black;
+}
+
+div#phone {
+	float: left;
+	padding-right: 20px;
+}
+
+div#place {
+	float: left;
+	padding-right: 20px;
+	padding-top: 15px;
+}
+
+div#address {
+	padding-top: 1pt;
+}
+
+#modal1 {
+	width: 80%;
+	height: 20%;
+}
+
+.modalCenter {
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+
+.modal-content {
+	text-align: center !important;
+	margin-top: 5%;
+}
+
+.modal-footer {
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 30% !important;
+	background-color: #bfbfbf !important;
+	text-color: #ffffff !important;
+}
+
+.modal-action {
+	font-size: 30px !important;
+	color: #ffffff !important;
+}
+
+#reset {
+	text-align: center !important;
+	color: #ffffff;
+}
+
+/* .bottom {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 120px;
+	background: #ffffff;
+	z-index: 30;
+}
+
+#home_btn {
+	padding-left: 10%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	float: left;
+	width: 70%;
+	position: absolute;
+}
+
+#money_gray_btn {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 28%;
+	float: left;
+	position: absolute;
+}
+
+#camera_gray_btn {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 47%;
+	float: left;
+	position: absolute;
+}
+
+#message_gray_btn {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 65%;
+	float: left;
+	position: absolute;
+}
+
+#settings_gray_btn {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 83%;
+	float: left;
+	position: absolute;
+} */

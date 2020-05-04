@@ -1,0 +1,102 @@
+@charset "EUC-KR";
+html, body{
+	width: 100%;
+	height: 100%;
+}
+div#workplace_register{
+	width: 100%;
+	height: 50px;
+	background-color: #0090ff;
+	padding-top: 15px;
+	color: white;
+	text-align: center;
+	display: table;
+}
+button#Btn_back{
+	border: none;
+	float: left;
+	height: 26px;
+    width: 17px;
+	margin-left: 9px;
+	background-color: #0090ff;
+	padding-right: 16px;
+}
+img#btn_back{
+	width: 13px;
+	height: 20px;
+	/* float: left; */
+	background-color: #0090ff;
+}
+span{
+	background-color: #0090ff;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-right: 29px;
+}
+
+/* ¹Ù´Ú ºÎºÐ */
+div#chat.footer{
+	position: absolute;
+	background-color: #0090ff;
+	bottom:180px;
+	width: 100%;
+	height: 40px;
+}
+button#btn_cancel {
+	background-color: #0090ff;
+	float: left;
+	width: 15px;
+    height: 15px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0;
+    margin-left: 7px;
+   margin-right: 15px;
+}
+img#cancel{
+	width: 15px;
+    height: 15px;
+    padding-left: 0px;
+	float: left;
+	margin-left: 7px;
+    margin-top: 7px;
+}
+textarea {
+	padding-left: 10px;
+	padding-top: 5px;
+	margin-left: 15px;
+	margin-top: 6px;
+	height: 30px;
+	width: 299px;
+	border-radius: 10px;
+}
+input#send {
+	height: 20px;
+	width: 20px;
+	background-color:  #0090ff;
+	margin-bottom: 20px;
+    margin-left: 3px;
+}
+div#send_picture{
+	bottom: 160px;
+	width: 100%;
+	margin-left: 80px;
+    margin-top: 40px;
+}
+.btn_bottom{
+	border: none;
+	background-color: white;
+	text-align: center;
+}
+img#camera, img#album{
+	width: 60px;
+	height: 60px;
+	
+}
+ img#album{
+	 margin-left: 60px; 
+ }

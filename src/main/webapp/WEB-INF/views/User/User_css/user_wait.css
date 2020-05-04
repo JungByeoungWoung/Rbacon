@@ -1,0 +1,110 @@
+@charset "UTF-8";
+html, body{
+  width: 100%;
+  height: 1500px;
+  background-color: #f7f7f7;
+}
+.one{
+  height: 400px;
+  background-color: #ffffff;
+}
+nav.top-nav{
+  height: 100px;
+  background-color: #0090ff;
+}
+a.brand-logo{
+  padding-top: 16px!important;
+  font-size: 35px!important;
+}
+#left_btn{
+  margin-left: -20px;
+  font-size: 100px!important;
+  line-height: 1!important;
+}
+#job-result{
+  width: 96%;
+  margin-left: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border: 2px solid #afafaf;
+  background: #ffffff;
+  color: #000000;
+  float: left;
+}
+#job-address{
+	padding-left: 3%;
+	padding-top: 10px !important;
+}
+a.modal-trigger{
+	color: black;
+}
+#close{
+	float: right;
+	margin: 10px;
+}
+#wait{
+	float: right;
+	margin-right: 4%;
+}
+div#address{
+	padding-top: 1pt;
+	margin-bottom: 2%;
+}
+#job-add{
+	width: 96%;
+	height: 10%;
+	margin-left: 2%;
+	border: 2px solid #0090ff;
+	background: #ffffff;
+	color: #000000;
+	float: left;
+}
+#register{
+	color: #0090ff;
+	text-align: center !important;
+	vertical-align: middle;	
+}
+/* .bottom{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 120px;
+  background: #ffffff;
+  z-index: 30;
+}
+#home_btn{
+  padding-left: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  width: 70%;
+  position: absolute;
+}
+#money_gray_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 28%;
+	float: left;
+	position: absolute;
+}
+#camera_gray_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 47%;
+	float: left;
+	position: absolute;
+}
+#message_gray_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 65%;
+	float: left;
+	position: absolute;
+}
+#settings_gray_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 83%;
+	float: left;
+	position: absolute;
+} */

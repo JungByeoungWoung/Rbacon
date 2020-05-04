@@ -1,0 +1,93 @@
+@charset "EUC-KR";@charset "UTF-8";
+html, body{
+  width: 100%;
+  height: 100%;
+  padding: 0%;
+  background-color : #F7F7F7;
+}
+
+nav.top-nav{
+  height: 100px;
+  background-color: #0090ff;
+}
+a.brand-logo{
+  padding-top: 16px!important;
+  font-size: 35px!important;
+}
+.vl {
+  margin-top:0.1%;
+  margin-left: 15%;
+  border-left: 10px solid #8ACCFF;
+  height: 100%;
+}
+#lb{
+	float:left;
+	margin-top:2%;
+}
+#Mcontent{
+	height:25%!important;
+	margin-left:5%;
+	width:90%;
+	background-color:#F7F7F7;
+    border: 1px solid #AFAFAF!important; 
+   
+}
+#N_box{
+	height:23%!important;
+	margin-left:5%;
+	width:90%;
+	background-color:white;
+    border: 1px solid #AFAFAF!important; 
+    text-align:center;
+}
+#pt{
+	color:gray;
+	height:100%!important;
+	font-size:35px;
+}
+#ok{
+	width:90%;
+	height:25%;
+	font-size:35px;
+	background-color:#0090ff;
+	color:white;
+	margin-left:5%;
+	margin-top:3%;
+}
+#modal1{
+	padding: 0%;
+	width: 80%;
+	height: 31%;
+}
+.modalCenter{
+	padding:0% !important;
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+.modal-content{ 
+	margin-top: 0%;
+	padding:0% !important;
+}
+#modal-footer{
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 20% !important;
+	background-color: #bfbfbf !important;
+	text-color: #ffffff !important;
+}
+.modal-action{
+	font-size: 30px !important;
+	color: #ffffff !important;
+}
+#reset{
+	text-align: center !important;
+	color: #ffffff;
+}
+#choice{
+	text-align : center;
+	width:100%;
+	padding:0%;
+	margin:0;
+	height:80%!important;
+}
